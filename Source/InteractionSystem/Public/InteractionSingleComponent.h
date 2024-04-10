@@ -7,7 +7,7 @@
 #include "InteractionSingleComponent.generated.h"
 
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class INTERACTIONSYSTEM_API UInteractionSingleComponent : public UInteractionBaseComponent
+class SIS_API UInteractionSingleComponent : public UInteractionBaseComponent
 {
 	GENERATED_BODY()
 

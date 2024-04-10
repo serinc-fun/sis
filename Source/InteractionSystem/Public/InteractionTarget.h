@@ -16,7 +16,7 @@ class UInteractionTarget : public UInterface
 /**
  * 
  */
-class INTERACTIONSYSTEM_API IInteractionTarget
+class SIS_API IInteractionTarget
 {
 	GENERATED_BODY()
 

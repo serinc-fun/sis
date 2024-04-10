@@ -10,7 +10,7 @@
 class USpringArmComponent;
 
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class INTERACTIONSYSTEM_API UInteractionBaseComponent : public UActorComponent
+class SIS_API UInteractionBaseComponent : public UActorComponent
 {
 	GENERATED_BODY()
 
